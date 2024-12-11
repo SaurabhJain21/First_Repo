@@ -1,0 +1,29 @@
+# Compiled object files
+*.o
+*.obj
+
+# Executable files
+*.exe
+*.out
+
+# Dependency files
+*.d
+
+# Backup files
+*~
+
+# Build directories
+build/
+bin/
+Debug/
+Release/
+
+# IDE-specific files
+.vscode/
+*.suo
+*.user
+*.ncb
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
